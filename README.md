@@ -1,6 +1,7 @@
-# Simple Budget Pie
+# Simple Budget Pie (Flutter APP)
 
-A sleek and intuitive Flutter application for visualizing personal expenses through a dynamic pie chart. Keep track of your spending across categories, gain instant insights, and manage your budget effortlessly.
+A sleek and intuitive Flutter application for visualizing personal expenses through a dynamic pie chart. 
+Keep track of your spending across categories, gain instant insights, and manage your budget effortlessly.
 
 ---
 
@@ -25,7 +26,7 @@ A sleek and intuitive Flutter application for visualizing personal expenses thro
 2. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simple_budget_pie.git
+   git clone https://github.com/bektas-sari/simple_budget_pie.git
    cd simple_budget_pie
    ```
 
